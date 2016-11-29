@@ -24,3 +24,12 @@ class Details {
       
    }
 }
+
+
+
+Output:
+       Value is: Ram
+       Value is: Kumar
+       Value is: Ramkumar
+       Value is: Kumarram
+       Value is: Pradeep
